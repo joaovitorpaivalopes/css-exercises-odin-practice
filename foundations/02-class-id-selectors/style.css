@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+.same{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd{
+    font-size: 24px;
+}
+
+#first{
+    color: blue;
+    font-size: 36px;
+}
+
+#second{
+    background-color: lightgreen;
+    font-weight: bold;
+}
